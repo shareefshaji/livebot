@@ -12,7 +12,7 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/levina-lab/LiveGrambot",
+  "repository": "https://github.com/shareefshaji/livebot",
   "website": "https://telegram.dog/dlwrml",
   "success_url": "https://t.me/levinachannel",
   "env": {
